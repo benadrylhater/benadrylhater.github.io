@@ -1,5 +1,8 @@
 body
 {
     background-image: url(/rbsc_dictionnaire-infernal_BF1503C61863_1.jpg);
-    background-size: contain;
+    background-size: 85%;
+    background-blend-mode: color;
+    background-repeat: no-repeat;
+    background-position-x: 160px;
 }
